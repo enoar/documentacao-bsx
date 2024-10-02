@@ -62,7 +62,9 @@ https://github.com/belchiorSX/bsx-media
 
 Robôs
 https://github.com/belchiorSX/robo-bne
+
 https://github.com/belchiorSX/linkedin-web-scrapper
+
 ## Painel de Vagas
 
 A funcionalidade do painel de vagas da BSX RH proporciona uma maneira eficiente e transparente de gerenciar oportunidades de emprego. Todas as vagas criadas pelo cliente ficam expostas nesse painel, permitindo que qualquer candidato que acessar a página de recrutamento e seleção do cliente possa se candidatar de forma simples e direta.
