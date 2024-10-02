@@ -61,6 +61,7 @@ https://github.com/belchiorSX/bsx-driver
 https://github.com/belchiorSX/bsx-media
 
 Robôs
+
 https://github.com/belchiorSX/robo-bne
 
 https://github.com/belchiorSX/linkedin-web-scrapper
@@ -110,6 +111,10 @@ https://bsx-rh.web.app/
 
 login: admin@bsx.com
 senha: 1mM@teste
+
+Vídeo:
+https://vimeo.com/813381517
+
 ## Arquitetura
 
 
