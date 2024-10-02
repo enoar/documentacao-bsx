@@ -127,30 +127,23 @@ https://vimeo.com/813381517
 
 ## Documentação da API
 
-#### Retorna todos os itens
+https://www.belchiortech.com.br:3331/licensa/swagger-ui.html#
+https://www.belchiortech.com.br:3331/leads/swagger-ui.html#
+https://www.belchiortech.com.br:3331/campanha/swagger-ui.html#
+https://www.belchiortech.com.br:3331/agendamento/swagger-ui.html#
+https://www.belchiortech.com.br:3331/jasper/swagger-ui.html#
+https://www.belchiortech.com.br:3331/prova/swagger-ui.html#
+https://www.belchiortech.com.br:3331/usuario/swagger-ui.html#
+https://www.belchiortech.com.br:3331/cadastro/swagger-ui.html#
+https://www.belchiortech.com.br:3331/notificacao/swagger-ui.html#
 
-```http
-  GET /api/items
-```
-
-| Parâmetro   | Tipo       | Descrição                           |
-| :---------- | :--------- | :---------------------------------- |
-| `api_key` | `string` | **Obrigatório**. A chave da sua API |
-
-#### Retorna um item
-
-```http
-  GET /api/items/${id}
-```
-
-| Parâmetro   | Tipo       | Descrição                                   |
-| :---------- | :--------- | :------------------------------------------ |
-| `id`      | `string` | **Obrigatório**. O ID do item que você quer |
-
-#### add(num1, num2)
-
-Recebe dois números e retorna a sua soma.
-
+ToDo
+Contratos das comunicações async.
+Robô Bne
+Robô Linkedin
+Notificação
+Campanha
+Relatórios 
 
 # BSX RH
 
