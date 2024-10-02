@@ -324,6 +324,16 @@ Privacidade e Segurança: É importante que o candidato esteja ciente das polít
 
 
 O cadastro na plataforma BSX RH é uma oportunidade valiosa para os candidatos se destacarem no mercado de trabalho. Ao seguir esses passos e manter um perfil atualizado, os candidatos aumentam suas chances de serem notados por empregadores e, consequentemente, de conseguirem uma colocação profissional que se alinhe às suas aspirações.
+
+## Currículo 
+
+A funcionalidade de exportar currículos da BSX RH é uma ferramenta poderosa que permite personalizar as informações apresentadas de acordo com as necessidades de cada vaga. Os usuários podem definir quais dados serão incluídos no currículo, como nome, dados de contato e pretensão salarial, garantindo que as informações mais relevantes sejam destacadas.
+
+Uma característica útil é a opção de mascarar o nome do candidato, o que pode ser importante para processos seletivos que buscam garantir a imparcialidade. Além disso, o currículo exportado não se limita apenas às informações pessoais; ele também pode incluir provas técnicas, um vídeo da entrevista e a avaliação do time de RH. Essa abordagem abrangente proporciona uma visão completa do candidato, facilitando a tomada de decisões por parte dos recrutadores.
+
+Com a BSX RH, a criação de um currículo adaptado às exigências do mercado torna-se uma tarefa simples e eficiente, permitindo que cada candidato se apresente da melhor forma possível.
+
+
 ## Agendamentos
 
 Na BSX RH, o agendamento de entrevistas foi otimizado para proporcionar uma experiência fluida tanto para recrutadores quanto para candidatos. O processo é simples e eficiente: o recrutador inicia selecionando uma variedade de horários disponíveis que se encaixam em sua agenda. Essas sugestões são então enviadas aos candidatos, permitindo que cada um escolha o horário que melhor se adapta à sua disponibilidade.
