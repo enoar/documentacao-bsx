@@ -145,6 +145,10 @@ https://www.belchiortech.com.br:3331/cadastro/swagger-ui.html#
 
 https://www.belchiortech.com.br:3331/notificacao/swagger-ui.html#
 
+https://www.belchiortech.com.br:3331/teste-integracao/swagger-ui.html#
+
+
+
 ToDo
 Contratos das comunicações async.
 Robô Bne
