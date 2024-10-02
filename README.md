@@ -35,17 +35,29 @@ https://github.com/belchiorSX/admin
 
 BackEnd
 https://github.com/belchiorSX/gateway
+
 https://github.com/belchiorSX/notificacao
+
 https://github.com/belchiorSX/usuario
+
 https://github.com/belchiorSX/report
+
 https://github.com/belchiorSX/teste-integracao
+
 https://github.com/belchiorSX/leads
+
 https://github.com/belchiorSX/cadastro
+
 https://github.com/belchiorSX/campanha
+
 https://github.com/belchiorSX/agendamento
+
 https://github.com/belchiorSX/licensa
+
 https://github.com/belchiorSX/prova
+
 https://github.com/belchiorSX/bsx-driver
+
 https://github.com/belchiorSX/bsx-media
 
 Robôs
